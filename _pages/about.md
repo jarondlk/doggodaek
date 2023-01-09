@@ -2,7 +2,7 @@
 layout: page
 title: DogGoDaek the culinary adventures in the animal kingdom
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
