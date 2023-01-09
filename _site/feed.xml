@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DogGoDaek</title>
+    <description>Discovering the best bites in the animal kingdom</description>
+    <link>http://localhost:4000/doggodaek/</link>
+    <atom:link href="http://localhost:4000/doggodaek/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 Jan 2023 22:10:31 +0700</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2023 22:10:31 +0700</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Copper International Buffet</title>
+        <description>&lt;p&gt;I recently visited Copper International Buffet, located at The Sense Pinklao, and I was thoroughly impressed by the wide selection of dishes on offer. The buffet had a very high price point, but it was definitely worth it for the sheer variety of international cuisines available.&lt;/p&gt;
+
+&lt;p&gt;For starters, I particularly enjoyed the truffle soup and croissant as well as the fresh oysters with seafood chili sauce. Both dishes were delicious and really set the tone for the rest of the meal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/doggodaek/assets/images/copper/copper1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The main course had a lot to offer, with a range of options including wagyu steak, lamb steak, tom-yam grouper fish steak, wagyu sushi, fried crab padthai, and angel hair carbonara. It was difficult to choose, but everything I tried was cooked well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/doggodaek/assets/images/copper/copper2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dessert selection was equally impressive, with highlights including the chocolate lava cake served with berries, cheese egg tart, salted egg French toast, vanilla milk pudding, and creme brulee. I was truly in heaven! The drinks selection was also top-notch, with on-tap jasmine tea and Taiwanese milk tea available.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/doggodaek/assets/images/copper/copper3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, I would give Copper International Buffet a rating of 8.5/10. The price was very high, but the quality of the food and the wide selection of dishes more than justified the cost. I would definitely recommend this buffet for anyone looking for a truly indulgent dining experience.&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://goo.gl/maps/JBu4jXVQ65CwVwr69&quot;&gt;https://goo.gl/maps/JBu4jXVQ65CwVwr69&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jan 2023 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/doggodaek/copper/</link>
+        <guid isPermaLink="true">http://localhost:4000/doggodaek/copper/</guid>
+        
+        
+        <category>buffet</category>
+        
+        <category>wagyu</category>
+        
+        <category>fish</category>
+        
+        <category>lamb</category>
+        
+        <category>truffle</category>
+        
+        <category>oyster</category>
+        
+      </item>
+    
+      <item>
+        <title>Poulet Thailand Centralworld</title>
+        <description>&lt;p&gt;If you’re in the mood for some delicious French cuisine, then you’ll want to check out Poulet, located in Central World.&lt;/p&gt;
+
+&lt;p&gt;Upon arriving, we were greeted by the friendly staff and seated at a cozy table. We started off with the French onion soup and garlic bread for the starter. The soup was rich and flavorful, and the garlic bread was the perfect accompaniment.&lt;/p&gt;
+
+&lt;p&gt;For the main course, we decided to try the half chicken with mushroom sauce and the truffle mushroom risotto. Both dishes were incredibly tasty and the mushroom sauce on the chicken was particularly noteworthy. The truffle mushroom risotto was a decadent and indulgent dish, and the flavors of the truffle really shone through, but was slightly too salty.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/doggodaek/assets/images/poulet/pouletcomp.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although, I’d like to add that the chicken was only lukewarm when served and that table service was lacking, can’t order through staff, and pay at counter? It’s very unconventional for French cuisine, or any restaurant charging this price.&lt;/p&gt;
+
+&lt;p&gt;Overall, we would give Poulet a rating of 7.5/10. The food was excellent, but the prices were on the high side. However, for a special occasion or a night out with friends, we would definitely recommend Poulet. The atmosphere was sophisticated and the service was top-notch. If you’re a fan of French cuisine, this restaurant is definitely worth a visit.&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://goo.gl/maps/PtXQnwT7Nw42tPxR9&quot;&gt;https://goo.gl/maps/PtXQnwT7Nw42tPxR9&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 07 Jan 2023 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/doggodaek/poulet/</link>
+        <guid isPermaLink="true">http://localhost:4000/doggodaek/poulet/</guid>
+        
+        
+        <category>French</category>
+        
+        <category>Chicken</category>
+        
+        <category>truffle</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to DogGoDaek!</title>
+        <description>&lt;p&gt;Welcome to DogGoDaek! We are food-loving animals who are passionate about sharing our culinary experiences with the world. From savory to sweet, we’ve tasted it all and we’re here to share our honest opinions on the best (and sometimes the not-so-great) dishes that we’ve encountered.&lt;/p&gt;
+
+&lt;p&gt;Follow us as we explore the many flavors that the animal kingdom has to offer and discover new and tasty treats to try. Whether you’re a foodie or just looking for some inspiration for your next meal, we’ve got you covered. Join us on our tasty journey and let’s dig in!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/doggodaek/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/doggodaek/welcome/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
